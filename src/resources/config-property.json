@@ -1,0 +1,170 @@
+{
+  "data": {
+    "organization&2": {
+      "bmdh": {
+        "isForce": "1"
+      },
+      "remote_parent_id": {
+        "isForce": "1"
+      },
+      "dwfzr": {
+        "isForce": "1"
+      },
+      "remote_orgid": {
+        "isForce": "1"
+      },
+      "name": {
+        "isForce": "1"
+      }
+    },
+    "ofuser&1": {
+      "nativeplace_province": {
+        "isForce": "1"
+      },
+      "csrq": {
+        "isForce": "1"
+      },
+      "nativeplace_nation": {
+        "isForce": "1"
+      },
+      "ryzc": {
+        "isForce": "1"
+      },
+      "netpasswd": {
+        "isForce": "1"
+      },
+      "netuser": {
+        "isForce": "1"
+      },
+      "shlmc": {
+        "isForce": "1"
+      },
+      "nativeplace_district": {
+        "isForce": "1"
+      },
+      "school_year": {
+        "isForce": "1"
+      },
+      "rylxmc": {
+        "isForce": "1"
+      },
+      "ryxl": {
+        "isForce": "1"
+      },
+      "ssfjh": {
+        "isForce": "1"
+      },
+      "examinee_number": {
+        "isForce": "1"
+      },
+      "bzrxm": {
+        "isForce": "1"
+      },
+      "sznj": {
+        "isForce": "1"
+      },
+      "identity": {
+        "mapper": {
+          "00": "student",
+          "01": "teacher",
+          "02": "other"
+        },
+        "isForce": "1"
+      },
+      "pycc": {
+        "isForce": "1"
+      },
+      "email": {
+        "isForce": "1"
+      },
+      "tittle": {
+        "isForce": "0"
+      },
+      "ssldm": {
+        "isForce": "1"
+      },
+      "ryztdm": {
+        "isForce": "1"
+      },
+      "bzrh": {
+        "isForce": "1"
+      },
+      "fdyh": {
+        "isForce": "1"
+      },
+      "card_number": {
+        "isForce": "1"
+      },
+      "sex": {
+        "mapper": {
+          "0": "boy",
+          "1": "girl"
+        },
+        "isForce": "1"
+      },
+      "address_extend": {
+        "isForce": "1"
+      },
+      "card_type": {
+        "mapper": {
+          "10": "10",
+          "00": "4",
+          "01": "1",
+          "02": "2",
+          "03": "3"
+        },
+        "isForce": "1"
+      },
+      "mz": {
+        "isForce": "1"
+      },
+      "nativeplace_city": {
+        "isForce": "1"
+      },
+      "celphone": {
+        "isForce": "1"
+      },
+      "student_number": {
+        "isForce": "1"
+      },
+      "passwd": {
+        "isForce": "1"
+      },
+      "xqmc": {
+        "isForce": "1"
+      },
+      "name": {
+        "isForce": "0"
+      },
+      "admission_number": {
+        "isForce": "1"
+      },
+      "rypx": {
+        "isForce": "1"
+      },
+      "xqdm": {
+        "isForce": "1"
+      },
+      "landline": {
+        "isForce": "1"
+      },
+      "fdyxm": {
+        "isForce": "1"
+      },
+      "schooling": {
+        "isForce": "1"
+      },
+      "status": {
+        "isForce": "1"
+      }
+    },
+    "user_organization&3": {
+      "student_number": {
+        "isForce": "1"
+      },
+      "remote_orgid": {
+        "isForce": "1"
+      }
+    }
+  }
+}
